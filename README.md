@@ -8,7 +8,7 @@ It uses react and redux. This is the client. You need [the server](https://githu
 
 ## How to use
 
-[The server](https://github.com/luisbebop/voting-server) needs to be running.
+[The server](https://github.com/luisbebop/voting-server#how-to-use) needs to be running.
 
 ```
 npm install
